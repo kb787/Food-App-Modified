@@ -1,0 +1,5 @@
+# sytem-libraries 
+node_modules 
+
+# secret-keys 
+.env
