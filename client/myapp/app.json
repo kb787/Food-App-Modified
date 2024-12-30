@@ -1,19 +1,21 @@
 {
-  "name": "myapp",
-  "displayName": "myapp",
   "expo": {
-    "facebookAppId": 469937909170990,
-    "facebookDisplayName": "food-app",
-    "plugins": [
-      [
-        "@rnmapbox/maps",
-        {
-          "RNMapboxMapsDownloadToken": "pk.eyJ1Ijoia2I3ODciLCJhIjoiY2x2M3AxMDFkMDBjeDJqbzlhbnZ4NGFpZiJ9.iF1niEoVLFnZE_A5wGC4mw"
-        }
-      ]
-    ],
-    "android": {
-      "package": "com.customname.myapp"
+    "name": "myapp",
+    "displayName": "myapp",
+    "expo": {
+      "facebookAppId": 469937909170990,
+      "facebookDisplayName": "food-app",
+      "plugins": [
+        [
+          "@rnmapbox/maps",
+          {
+            "RNMapboxMapsDownloadToken": "pk.eyJ1Ijoia2I3ODciLCJhIjoiY2x2M3AxMDFkMDBjeDJqbzlhbnZ4NGFpZiJ9.iF1niEoVLFnZE_A5wGC4mw"
+          }
+        ]
+      ],
+      "android": {
+        "package": "com.customname.myapp"
+      }
     }
   }
 }
